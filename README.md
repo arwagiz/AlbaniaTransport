@@ -66,12 +66,12 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Tirana SUMP 2020:
-  - [Status analysis] (https://tirana.al/en/uploads/2020/12/20201210161510_sump_tirana-volume-i_status_analysis_200724.pdf)
-  - [Plan] (https://tirana.al/en/uploads/2020/12/20201210161709_sump_tirana-volume-ii_the-plan_200724.pdf)
-  - [Annexes] (https://www.tirana.al/en/uploads/2020/12/20201210161809_sump_tirana-volume-iii_annexes_200724.pdf)
+  - [Status analysis](https://tirana.al/en/uploads/2020/12/20201210161510_sump_tirana-volume-i_status_analysis_200724.pdf)
+  - [Plan](https://tirana.al/en/uploads/2020/12/20201210161709_sump_tirana-volume-ii_the-plan_200724.pdf)
+  - [Annexes](https://www.tirana.al/en/uploads/2020/12/20201210161809_sump_tirana-volume-iii_annexes_200724.pdf)
 - Tirana, Green City Action Plan, EBRD, 2018
-  - [English] (https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP.pdf)
-  - [Albanian] (https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP-Alba.pdf)
+  - [English](https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP.pdf)
+  - [Albanian](https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP-Alba.pdf)
 - Shkoder: Sustainable Urban Mobility Plan, 2017 (Draft): https://issuu.com/go2albania/docs/plani_levizje_e_qendrueshme_urbane/
 - Elbasan: SUSTAINABLE URBAN MOBILITY SYSTEM IN THE MUNICIPALITY OF ELBASAN, 2020 (Draft): https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.shav.al%2Fimages%2Fraporte_publikime%2Fpdf%2FElbasan_SUMP_Report_rev01_1.docx&wdOrigin=BROWSELINK
 - Gramsh: SUSTAINABLE URBAN MOBILITY SYSTEM IN THE MUNICIPALITY OF Gramsh, 2020 (Draft), https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.shav.al%2Fimages%2Fraporte_publikime%2Fpdf%2FGramsh_SUMP_Report_rev01_1.docx&wdOrigin=BROWSELINK
@@ -116,9 +116,9 @@ Public transport and its privatization in East Europe: The case of Tirana, Alban
 - OpenStreetMap Albania, Transport Map : https://www.openstreetmap.org/relation/53292#map=8/41.294/20.572&layers=T
 - Open Data Portal - Albania (non-active for now): https://opendata.gov.al/
 - Open Data Portal - Tirana - for transport: https://ckan.tirana.al/dataset?groups=transporti
-- [ASIG (State Authority for Geospatial Information) National Transport Map] (https://geoportal.asig.gov.al/map/?themeId=3304049&auto=true)
-- [AKPT - National Territorial Planning Agency - Google Drive folder for editable base maps in DWG format] (https://drive.google.com/drive/folders/1dSzJd25qh1SkfFY1uQ2vpncu4dJQAvyI?usp=drive_link)
-- [AKPT Local Regulatory Plan ArcGIS map] (https://akpt.maps.arcgis.com/apps/webappviewer/index.html?id=ff270e99f5be45f19c7b7a1e3e618b27) 
+- [ASIG (State Authority for Geospatial Information) National Transport Map](https://geoportal.asig.gov.al/map/?themeId=3304049&auto=true)
+- [AKPT - National Territorial Planning Agency - Google Drive folder for editable base maps in DWG format](https://drive.google.com/drive/folders/1dSzJd25qh1SkfFY1uQ2vpncu4dJQAvyI?usp=drive_link)
+- [AKPT Local Regulatory Plan ArcGIS map](https://akpt.maps.arcgis.com/apps/webappviewer/index.html?id=ff270e99f5be45f19c7b7a1e3e618b27) 
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
