@@ -121,7 +121,8 @@ Public transport and its privatization in East Europe: The case of Tirana, Alban
 - Open Data Portal - Tirana - for transport: https://ckan.tirana.al/dataset?groups=transporti
 - [ASIG (State Authority for Geospatial Information) National Transport Map](https://geoportal.asig.gov.al/map/?themeId=3304049&auto=true)
 - [AKPT - National Territorial Planning Agency - Google Drive folder for editable base maps in DWG format](https://drive.google.com/drive/folders/1dSzJd25qh1SkfFY1uQ2vpncu4dJQAvyI?usp=drive_link)
-- [AKPT Local Regulatory Plan ArcGIS map](https://akpt.maps.arcgis.com/apps/webappviewer/index.html?id=ff270e99f5be45f19c7b7a1e3e618b27) 
+- [AKPT Local Regulatory Plan ArcGIS map](https://akpt.maps.arcgis.com/apps/webappviewer/index.html?id=ff270e99f5be45f19c7b7a1e3e618b27)
+- [GDRTS Open Data](https://www.dpshtrr.al/sherbime-online/open-data-statistika-raporte) (*some* of them are also available [in English](https://www.dpshtrr.al/open-data-dpshtrr-english))
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
