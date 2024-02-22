@@ -38,6 +38,9 @@ The action plan for the implementation of the TCT which aims at harmonizing nati
 - [Road code, 2021](https://mb.gov.al/wp-content/uploads/2021/07/Kodi-Rrugor-i-RSH.pdf)
 - [Railway code, 2016](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=6213&token=8c7ae5900b77a2d83b8c3cb6b99ed33a252e3590)
 - [Technical Guidelines for Street Design and Implementation](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=3867&token=6ccc6b0d47997b14abb0fb0a1b4c173467c1a667)
+- [Regulation on the implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf)
+- [Manual of Road Signage](https://www.arrsh.gov.al/te-ngarkuara/pdf/Manuali-Sinjalistikes.pdf)
+- [Technical specifications of park, square, boulevard, and road nameplates and of building numbering signs](https://qbz.gov.al/eli/vendim/2008/03/05/446/9c1818f3-05d3-43a0-a781-85a2f8ac17ab)
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
