@@ -48,9 +48,10 @@ The action plan for the implementation of the TCT which aims at harmonizing nati
   - Albania. [National Communication (NC). NC 4., 2022](https://unfccc.int/documents/620929)
   - Albania. [Biennial update report (BUR). BUR 1. National inventory report, 2021](https://unfccc.int/documents/307388)
   - [Revised NDC, 2022](https://unfccc.int/sites/default/files/2022-08/Albania%20Revised%20NDC.pdf)
+  - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)
 
 - Adaptation:
-  - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)
+
 
 ### EU accession <a name="eu-accession"></a> 
 
