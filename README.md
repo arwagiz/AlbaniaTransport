@@ -34,7 +34,7 @@
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
-- Road Transport:  
+- Road Transport: 
     - [Road Code, 2021](https://mb.gov.al/wp-content/uploads/2021/07/Kodi-Rrugor-i-RSH.pdf)
         - [Regulation on the Implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf)
     - [Technical Guidelines for Street Design and Implementation](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=3867&token=6ccc6b0d47997b14abb0fb0a1b4c173467c1a667)
@@ -51,7 +51,7 @@
     - [Law on Licensing Railway Operators](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/rregullore-2011-06-10-2638_Mbi-pajisjen-me-leje-veprimtarie-t-transportuesve-hekurudhor.pdf)
     - [ Law on Rules of Railway Transport of Passengers and Goods](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/udhezim-2012-07-09-10_Mbi-rregullat-n-transportin-hekurudhor-t-udhtarve-dhe-t-bagazheve.pdf)
 
-- Aerial:
+- Aerial: 
     - [Aerial Code](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Kodi-Ajror_ligj-2020-07-23-96.pdf)
 
 
